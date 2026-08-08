@@ -17,6 +17,14 @@ note under each item for gaps to revisit.
 - [ ] Matrix calculus (gradients, Jacobians, Hessians) for ML derivations
 - [ ] Norms, condition number, numerical stability
 
+## 1b. Numerical Methods & Numerical Linear Algebra
+- [ ] Floating point arithmetic: precision, rounding error, catastrophic cancellation
+- [ ] Condition number and numerical stability in practice (link to §1)
+- [ ] Matrix decompositions for computation: LU, Cholesky, QR — when each is used
+- [ ] Iterative solvers: conjugate gradient, why they matter for large-scale ML
+- [ ] Numerical optimization pitfalls: ill-conditioning, vanishing/exploding computations
+- [ ] Numerical integration basics (light — Monte Carlo vs quadrature)
+
 ## 2. Calculus & Optimization Fundamentals
 - [ ] Multivariate calculus, chain rule, Taylor expansion
 - [ ] Convexity, convex sets/functions, first/second-order conditions
@@ -158,6 +166,15 @@ note under each item for gaps to revisit.
 - [ ] Practical training: mixed precision, gradient clipping, debugging a model that won't train
 - [ ] Distributed training basics: data parallelism vs model parallelism (light)
 
+## 8b. Reinforcement Learning
+- [ ] MDPs: states, actions, rewards, policies, value functions — formal setup
+- [ ] Bellman equations — derive, intuition
+- [ ] Value-based methods: Q-learning, SARSA, deep Q-networks (DQN)
+- [ ] Policy gradient methods: derive REINFORCE, intuition for actor-critic
+- [ ] Exploration vs exploitation: epsilon-greedy, UCB, connection to multi-armed bandits (§17)
+- [ ] Model-based vs model-free RL (light)
+- [ ] RL in finance context: execution optimization, market making (light — application awareness)
+
 ## 9. NLP & LLMs
 - [ ] Tokenization, embeddings, word2vec/GloVe intuition
 - [ ] Transformer architecture end-to-end
@@ -236,6 +253,13 @@ note under each item for gaps to revisit.
 - [ ] Statistical arbitrage / pairs trading (cointegration link back to §10-11)
 - [ ] High-frequency vs low-frequency strategy considerations
 
+## 15b. Alternative Data & Signal Research
+- [ ] Signal evaluation: information coefficient (IC), signal decay, turnover
+- [ ] Feature/signal construction from alternative data (light — awareness of common sources)
+- [ ] Multiple testing / overfitting risk in signal research (link to §14 backtesting)
+- [ ] Combining signals: ensembling, orthogonalization against known factors
+- [ ] Data snooping bias, walk-forward validation
+
 ## 16. Python & Algorithms
 - [ ] Core data structures: arrays, hash maps, trees, heaps, graphs
 - [ ] Algorithmic complexity, common patterns (two pointers, sliding window, DP)
@@ -280,6 +304,16 @@ note under each item for gaps to revisit.
 - [ ] Philosophy of causation: Hume on causation, causal realism, links to §12 Causal Inference
 - [ ] Philosophy of science: falsifiability (Popper), paradigm shifts (Kuhn), problem of induction
 - [ ] Determinism, free will, and their (loose) relevance to model interpretability debates
+
+---
+
+## 20. Behavioral & Case Study Prep (different practice mode — not derivation-based)
+- [ ] "Tell me about a time..." stories: pick 4-6 core projects/experiences covering conflict, failure, leadership, technical depth
+- [ ] STAR-format structuring practice (Situation, Task, Action, Result)
+- [ ] "Walk me through a project" — practice narrating a technical project end-to-end at varying depth levels
+- [ ] Case-study style: "how would you evaluate a new alpha signal/model" — open-ended problem framing practice
+- [ ] Questions to ask interviewers (role/team/fund-specific)
+- [ ] Why this fund / why ML / why this transition — narrative coherence
 
 ---
 

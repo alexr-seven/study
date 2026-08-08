@@ -212,6 +212,29 @@ note under each item for gaps to revisit.
 - [ ] Forecasting evaluation, backtesting pitfalls (lookahead bias)
 - [ ] Deep learning for time series (temporal CNNs, transformers for sequences)
 
+## 10b. Core Economics
+- [ ] Microeconomics: supply/demand, elasticity, market equilibrium, consumer/producer surplus
+- [ ] Market structures: perfect competition, monopoly, oligopoly, monopolistic competition
+- [ ] Game theory basics: Nash equilibrium, prisoner's dilemma, applications to strategic pricing
+- [ ] Macroeconomics: GDP, inflation, unemployment — definitions and relationships
+- [ ] Business cycles, output gap
+- [ ] Monetary policy: interest rate mechanisms, central bank tools, transmission mechanisms
+- [ ] Fiscal policy: government spending/taxation effects
+- [ ] Phillips curve — inflation/unemployment trade-off, critiques
+- [ ] Yield curve: shape, inversion, what it signals about the economy
+- [ ] International economics: exchange rates, purchasing power parity, interest rate parity
+- [ ] Market efficiency: EMH (weak/semi-strong/strong forms), rational expectations
+- [ ] Behavioral economics: key departures from rational-agent models (light)
+- [ ] Key macro indicators traders watch: CPI, PMI, non-farm payrolls, retail sales
+- [ ] Term structure theories of the yield curve: expectations hypothesis, liquidity preference, segmented markets
+- [ ] Real vs nominal rates, breakeven inflation, TIPS
+- [ ] Comparative advantage, gains from trade
+- [ ] Balance of payments: current account vs capital account
+- [ ] Adverse selection, moral hazard — information asymmetry (ties to §12b Credit Risk)
+- [ ] Minsky's financial instability hypothesis, credit cycle dynamics — conceptual, no derivation
+- [ ] Auction theory basics (ties to §15 market microstructure)
+- [ ] QE mechanics and unconventional monetary policy — conceptual understanding, not derivation
+
 ## 11. Econometrics
 - [ ] OLS assumptions, Gauss-Markov theorem
 - [ ] Endogeneity, omitted variable bias, measurement error

@@ -37,6 +37,19 @@ note under each item for gaps to revisit.
 - [ ] Frequency-domain intuition for time series (spectral density)
 - [ ] Connection to CNNs (convolution) and signal processing
 
+## 2d. Real, Measure-Theoretic & Functional Analysis Foundations
+- [ ] Sequences/series: convergence, Cauchy criterion, Bolzano-Weierstrass
+- [ ] Compactness (Heine-Borel), continuity, uniform continuity
+- [ ] Mean Value Theorem, Extreme Value Theorem
+- [ ] Sigma-algebras, measures, Lebesgue measure — construction and intuition
+- [ ] Measurable functions, random variables as measurable functions (link to §3)
+- [ ] Lebesgue integration vs Riemann — why it matters, key differences
+- [ ] Monotone convergence theorem, dominated convergence theorem, Fatou's lemma
+- [ ] Fubini's theorem (light — when it applies)
+- [ ] Functional analysis (light): normed/Banach spaces, Hilbert spaces, inner product spaces
+- [ ] L^p spaces — intuition, relevance to statistics/ML
+- [ ] RKHS (reproducing kernel Hilbert space) — light touch, ties to kernel methods (§7)
+
 ## 3. Probability
 - [ ] Axioms, conditional probability, Bayes' theorem
 - [ ] Random variables, distributions (discrete/continuous), moment generating functions
@@ -47,7 +60,7 @@ note under each item for gaps to revisit.
 - [ ] Conditional expectation — tower property, law of total variance
 - [ ] Key inequalities: Markov, Chebyshev, Jensen, Cauchy-Schwarz, union bound
 - [ ] Law of large numbers, central limit theorem
-- [ ] Measure-theoretic probability (in progress — Rosenthal → Durrett path)
+- [ ] Measure-theoretic probability foundations — see §2d; apply here (probability measures, expectation as Lebesgue integral)
 - [ ] Convergence types: a.s., in probability, in distribution, in L^p
 - [ ] Martingales — definitions, optional stopping, applications
 

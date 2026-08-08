@@ -146,6 +146,7 @@ note under each item for gaps to revisit.
 - [ ] Loss landscape intuition: saddle points vs local minima in high dimensions
 - [ ] CNNs — convolution math, receptive fields, pooling, ResNets (skip connections — why they help gradient flow)
 - [ ] RNNs/LSTMs/GRUs — gating derivations, why they help with gradients, limitations vs attention
+- [ ] Temporal Convolutional Networks (TCNs) — dilated causal convolutions, receptive field growth, why they compete with RNNs for sequence tasks
 - [ ] Attention & Transformers — derive self-attention (Q/K/V), multi-head attention, positional encoding, why transformers scale better than RNNs
 - [ ] Normalization: batchnorm, layernorm, groupnorm — why they work, train/inference differences
 - [ ] Optimization in DL: SGD/momentum/RMSprop/Adam — derive update rules; learning rate schedules, warmup, weight decay vs L2

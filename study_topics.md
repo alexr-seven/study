@@ -9,6 +9,26 @@ note under each item for gaps to revisit.
 
 ---
 
+## Rotation Tracker
+*Update at the end of each session. Keep this light — a queue, not a schedule.*
+
+**Section weight reference** (for planning how many sessions a section needs):
+- Heavy (2-3 sessions): §7, §8, §13, §2d, §3
+- Medium (1-2 sessions): §4/4b, §6, §9, §10, §11, §12, §14, §16
+- Light (pair two per session): §1b, §2b, §2c, §3b, §3c, §12b/12c, §15b, §16b/c/d, §17, §18, §19, §20
+
+**Next up (new material queue):**
+1.
+2.
+3.
+
+**Due for review (pull from Gaps Log, roughly weekly):**
+-
+
+**Last session:** [date] — [section] — [rough depth: intro / solid / needs another pass]
+
+---
+
 ## 1. Linear Algebra Fundamentals
 - [ ] Vector spaces, basis, rank, null space
 - [ ] Eigenvalues/eigenvectors, diagonalization, spectral theorem
